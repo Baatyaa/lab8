@@ -1,0 +1,16 @@
+{
+  "order_info": {
+    "order_id": "LTC-USDT-65712-1746209681834",
+    "symbol": "LTC/USDT",
+    "side": "buy",
+    "status": "filled",
+    "executed_quantity": 0.0001,
+    "timestamp": "2025-05-03T03:12:43.141590"
+  },
+  "financials": {
+    "total_amount": 0.008857,
+    "commission": 2.7e-05,
+    "net_profit_usdt": 0,
+    "profit_percentage": 0
+  }
+}
